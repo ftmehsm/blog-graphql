@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: "Yekan Bakh" , "Roboto", sans-serif;
+    background-color: #eff6ff;
+}
+
+a{ 
+    text-decoration: none;
+    color: inherit;
+}
+
+p{
+    text-align: justify;
+}
+
+input{
+    font-family: "Yekan Bakh" , "Roboto", sans-serif;
+    border: 1px solid #ababab29;
+    padding: 5px;
+    height: 40px;
+    border-radius: 10px;
+    outline: none;
+}
